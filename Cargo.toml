@@ -1,0 +1,8 @@
+[package]
+name = "chango-rs"
+version = "0.1.0"
+authors = ["Brandon Lucia <blucia@gmail.com>"]
+
+[dependencies]
+cv = { git = "https://github.com/nebgnahz/cv-rs.git" }
+cpal = { git = "https://github.com/tomaka/cpal.git" }
